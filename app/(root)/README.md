@@ -35,3 +35,6 @@ Appwrite is a comprehensive backend as a solution
   The collections users:
 
   after which you create an appwrite.ts in your lib folder
+
+  Go to the sign-in 
+  
